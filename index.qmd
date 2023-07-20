@@ -1,0 +1,195 @@
+---
+title: "Treat-to-Target or High-Intensity Statin in Patients With Coronary Artery Disease"
+author: "soyeon bae"
+toc: true
+toc-location: right
+format: revealjs
+date: last-modified
+editor: visual
+---
+
+## Introduction
+
+관상동맥질환(CAD) 환자들에게 LDL-C treat-to-target strategy과 고강도 statin 치료를 비교하는 비열등성 연구
+
+- 관상동맥질환은 관상동맥이라는 심장혈관에 동맥경화증이 진행되면서 혈관이 막힘으로써 심장이 운동하거나 일을 해야 할 때 충분한 혈류공급이 이뤄지지 않아서 심장근육에 상대적인 빈혈이 생기는 경우
+
+::: {.panel-tabset}
+
+### backgrounds
+
+관상동맥질환(CAD) 환자는 미래의 심혈관 질환에 대해 높은 위험에 처해 있다고 판단됨.
+그러므로 LDL-콜레스테롤(LDL-C) 수준을 크게 감소시키는 것이 중요 
+-> statin 치료 권장
+
+
+### 목표
+
+초기부터 고강도 statin 을 사용하는 것보다 환자의 반응과 컨디션에 따라 statin 농도를 조절하며 쓰는 방법이 열등하지 않다 라는 것을 검정하기 위한
+비열등성 검정
+
+:::
+
+
+## 용어정리 
+
+- coronary artery disease (CAD) ; 관상동맥질환 
+관상동맥이 어떠한 이유로 인해 좁아져 혈액 공급이 부족하게 되고 이로 인해 심근에 허혈이 나타남으로써 발생하는 질환
+- low-density lipoprotein cholesterol (LDL-C) ; 저밀도 지질단백질 콜레스트롤 
+- myocardial infarction ; 급성 심근경색증
+- non-inferiority trial ; 시험약의 유효성과 안전성이 대조약보다 나쁘지 않다는 것을 입증하는 시험 
+
+# Methods
+
+## Study design
+
+- 임의로 분류된 환자들에게 LDL-C 목표치 전략(목표치: LDL-C 수치 50~70 mg/dL) 또는 고강도 스타틴 치료(로수바스타틴 20 mg 또는 아토르바스타틴 40 mg)을 적용
+
+- LDL-C 수준이 100 mg/dL 이상, 급성 관상동맥 증후군, 당뇨병의 존재에 따라 계층화된 환자들을 할당 
+
+- 주요 End Point 는 사망, 심근경색, 뇌졸중, 또는 관상동맥 재관류의 3년 추적 관찰치
+
+
+## Participants
+
+관상동맥질환(CAD) 환자들이 대상이었으며, 관상동맥질환 또는 급성 관상동맥증후군(불안정 협심증, 급성 심근경색)이 포함. 
+
+:::: {.columns}
+::: {.column width="40%"}
+1. 초기 고강도 -> statin 50 % 사용량 감소
+- 장점 ; 간단성
+- 단점 ; 개인별 약물 반응의 변동성과 고강도 스타틴의 장기 사용에 대한 부작용
+:::
+
+::: {.column width="60%"}
+2. 초기 중강도 -> 환자마다 반응을 보고 statin 사용량 조절절 (treat-to-target strategy)
+- 장점 ; 맞춤형 접근을 가능하게 하고 환자-의사 간의 의사소통을 촉진하여 치료 준수를 향상
+- 단점 ; 아직 발전 미미
+:::
+
+::::
+
+## Randomized process
+
+환자들은 무작위로 스타틴 치료를 위한 타겟 전략과 고강도 스타틴 치료 전략 중 하나를 받도록 1:1로 할당.
+또한 각 환자 그룹은 로수바스타틴 또는 아토르바스타틴 중 하나의 스타틴을 받도록 1:1로 추가 무작위화됨.
+
+- 중강도 스타틴 치료 : 로수바스타틴 10mg 또는 아토르바스타틴 20mg 
+- 고강도 스타틴 치료 : 로로수바스타틴 20mg 또는 아토르바스타틴 40mg
+
+## -
+
+::: {.panel-tabset}
+
+### before
+
+- treat-to-target strategy 그룹의  LDL-C 목표치; 70 mg/dL 이하 
+- 스타틴 처방을 처음 받는 환자들 -> 중등도 스타틴 치료
+- 이미 스타틴을 복용하고 있는 환자들 -> 무작위 배정 시 LDL-C 수치가 70 mg/dL 이하인 경우는 기존 강도를 유지하고, LDL-C 수치가 70 mg/dL 이상인 경우는 강도를 증가.
+
+
+### after
+
+- 추적 기간 동안 treat-to-target strategy 그룹에서는 LDL-C 수치가 70 mg/dL 이상인 환자들은 스타틴 강도를 증가 
+- LDL-C 수치가 50 mg/dL 이상 70 mg/dL 미만인 환자들은 같은 강도를 유지
+- LDL-C 수치가 50 mg/dL 미만인 환자들은 스타틴 강도를 감소. 
+
+- 고강도 스타틴 그룹에서는 연구 기간 동안 추적 LDL-C 수치에 상관없이 고강도 스타틴 치료를 유지하는 것이 권장.
+
+:::
+
+
+
+## Study endpoint
+
+:::: {.columns}
+::: {.column width="40%"}
+1. 주요 END POINT
+- 전원 사망, 심근경색(MI), 뇌졸중, 그리고 3년 내에 어떠한 관상동맥 재혈류술이든 포함하는 주요 심장 및 뇌혈관 질환환
+:::
+
+::: {.column width="60%"}
+2. Secondary End Point
+- 당뇨병 발병, (2) 심부전으로 인한 입원, (3) 심각한 정맥 혈전증 또는 폐색전증, (4) 말초동맥 질환을 위한 내시경 재혈류술, (5) 대동맥 치료나 수술, (6) 말기 신장 질환, (7) 부적합으로 인한 연구 약물 중단, (8) 백내장 수술, 그리고 (9) 실험실 이상 현상의 복합체의 발생
+:::
+
+::::
+
+
+## sample size calculation
+
+- 표준 치료 : 고강도 스타틴 접근법
+- 실험적 치료 : (treat-to-target strategy)
+
+::: {.incremental}
+- 3년간 주요 End Point의 예상 발생률은 각 그룹에서 12%로 추정. 
+- 임상적으로 차이가 없다의 기준으로는 non-inferiority margin 을 3% .
+- 그에 따라 총 4400명의 환자 (각 그룹당 2200명의 환자)가 필요.
+:::
+
+
+## sample size calculation code
+
+```{R}
+#| echo: true
+pA=0.12
+pB=0.12
+delta=0.03
+kappa=1
+alpha=0.025
+beta=0.20
+(nB=(pA*(1-pA)/kappa+pB*(1-pB))*((qnorm(1-alpha)+qnorm(1-beta))/(pA-pB-delta))^2)
+ceiling(nB) 
+loss_to_followup = 0.15
+(N = ceiling(nB)*2/(1-loss_to_followup))
+```
+
+
+## statistical analyses
+
+- 3년의 주요 End Point의 누적 발생률은 Kaplan-Meier 곡선을 사용하여 추정. 
+ 
+- 주요 End Point에 대한 비열등성 검정은 표준 오차를 추정하기 위한 그린우드 공식과 함께 Kaplan-Meier 발생률에 대한 z 통계량을 추정하기 위한 Com-Nougue 방법을 사용하여 수행. 
+
+::: {.notes}
+
+Kaplan-Meier 실패율에 대한 z 통계량을 추정하는 Com-Nougue 방법은 생존 분석에 사용되는 통계적 방법으로, 특히 시간이 지남에 따라 사건이 발생하는 비율 (실패율)을 추정하는데 사용됩니다.
+
+Greenwood 공식은 생존 시간 분석에서 표준 오차를 추정하는데 사용되는 방법입니다. 표준 오차는 통계적 추정치의 불확실성이나 변동성을 측정하는 지표입니다.
+
+따라서 이 문장에서는 비열등성 검정을 수행하기 위해 Kaplan-Meier 방법을 사용하여 실패율을 추정하고, 그 실패율의 표준 오차를 Greenwood 공식으로 계산했다는 내용입니다. 이렇게 함으로써 두 치료 방법이 서로 비열등하다는 것을 통계적으로 입증하려 한 것 
+:::
+
+## Results
+
+::: {.incremental}
+
+- 전체 4,400명의 환자 중 4,341명(98.7%)이 연구를 완료하였고, 
+LDL-C 목표치 전략 그룹(2,200명)과 고강도 스타틴 그룹(2,200명)의 평균 LDL-C 수치는 각각 **69.1 mg/dL, 68.4 mg/dL** 로 통계적으로 유의한 차이가 없었다.
+
+- Primary endpoint는 LDL-C 목표치 전략 그룹에서 177명(8.1%), 고강도 스타틴 그룹에서 190명(8.7%)에서 발생하였고, 이는 통계적으로 차이가 없음을 증명하는 바.
+
+:::
+
+
+
+## conclusion
+
+
+결론적으로, 이 연구는 CAD 환자들에게서 LDL-C 목표치 전략-이 고강도 스타틴 치료와 비교하여 3년 복합 결과물에 있어서 차이가 없음 을 보인다. 
+
+이러한 결과는 각 개인의 스타틴 치료에 대한 반응의 차이를 고려한 맞춤형 접근을 가능하게 하는 LDL-C 목표치 전략의 적절성을 더욱 지지하는 증거를 제공.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
